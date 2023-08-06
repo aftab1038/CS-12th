@@ -1,3 +1,7 @@
+/* Task 3
+    1. Area of Rectangle.
+    2. Volume of Sphere. */
+
 #include <iostream>
 
 using namespace std;
@@ -23,7 +27,7 @@ int main() {
     cout << "Area of Rectangle : "<<area<<"m^2" << endl;
 
 //Volume of Sphere.
-    cout << "volume of sphere: "<<volume<<"m^3" << endl;
+    cout << "Volume of Sphere: "<<volume<<"m^3" << endl;
 
     return 0;
 
