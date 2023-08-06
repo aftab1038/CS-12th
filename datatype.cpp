@@ -12,7 +12,6 @@ int main(){
         <<"Size of Boolen : "<<sizeof(bool)<<" Bytes \n"
         <<"Size of Floating Point : "<<sizeof(float)<<" Bytes \n"
         <<"Size of Double Floating Point : "<<sizeof(double)<<" Bytes \n"
-        <<"Size of Valueless : "<<sizeof(void)<<" Bytes \n"
         <<"Size of Wide Character : "<<sizeof(wchar_t)<<" Bytes \n";
         
     return 0;
