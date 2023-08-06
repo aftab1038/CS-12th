@@ -3,7 +3,7 @@
     a. alert – \a                       b. backspace – \b
     c. newline – \n                     d. carriage return – \r
     e. tab – \t                         f. display backslash – \\
-    g. display single quotation marks – \’;                        */
+    g. display single quotation marks – \’;  */
 
 #include <iostream>
 
