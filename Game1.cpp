@@ -3,11 +3,10 @@ using namespace std;
 
 string X;
 string Y;
-int inputX, inputY;   
+unsigned short inputX, inputY;
 char board[3][3] = {{'1','2','3'},
                     {'4','5','6'},
                     {'7','8','9'}};
-
 void display ()
 {
     cout<<"   |   |   \n";
@@ -38,14 +37,21 @@ void ask(int a)
     }    
 }
 
-int logic()
+void logic()
 {
     if(inputX == inputY)
     {
         cout << "Invalid!!!";
+        exit(0);
     }
     if(inputX != inputY)
-    {   
+    {  
+        if ( (inputX >= 10) || (inputY  >= 10) )
+        {
+        cout<<"Invalid";
+        exit (0);
+        }
+        
         if( inputX == 1)
         {
             board[0][0] = 'X';
@@ -69,7 +75,7 @@ int logic()
         if( inputX == 3)
         {
             board[0][2] = 'X';
-        } 
+        }
 
         if( inputY == 3)
         {
@@ -133,18 +139,12 @@ int logic()
 
         if( inputY == 9)
         {
-            board[2][2] = 'Y';
+        board[2][2] = 'Y';
         }
-        
-        else 
-        {
-        cout << "Invalid!!!" << endl;
-        exit(0);
-        }    
-    }
+    } 
+    
     cout<< endl;
 }
-
 void Run()
 {
     display();
@@ -168,8 +168,9 @@ void Run()
     ask(2);
     logic();
     display();    
-}
+    
 
+}
 int main()
 {
     cout << "Welcome to Tic Tac Toe Game " << endl;
@@ -178,4 +179,7 @@ int main()
     cout << "Enter player 2 : " <<Y;
     cin >> Y;
     Run();    
-} 
+    
+    
+    
+}
