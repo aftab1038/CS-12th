@@ -1,8 +1,7 @@
 /*  One Dimensional Array
         1. Write C++ code to declare one dimensional array with different sizes and data types
         2. Write C++ code to initialise one dimensional array
-        3. Apply process of traversing using all types of loops for 
-           input, output and manipulation of elements */
+        3. Apply process of traversing using all types of loops for input, output and manipulation of elements */
 
 #include <iostream>
 
