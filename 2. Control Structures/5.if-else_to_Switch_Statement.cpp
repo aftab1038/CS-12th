@@ -1,4 +1,4 @@
-/*  Convert if-else statement program to switch statement
+/*  Convert if-else statement program to switch statement program
         Rewrite a program having if/ if-else/ else-if statement using switch statement */
 
 #include <iostream>
