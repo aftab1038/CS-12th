@@ -1,4 +1,5 @@
-//  If Statement 
+/*  if-else Statement
+        write a program with if else statements */ 
 
 #include <iostream>
 
@@ -15,10 +16,10 @@ int main()
     {
         /*  Body of if statement,
             If condition is true then this will excute */
-        cout<<"You are passed with "<<marks<<"%"<<endl;
+        cout<<"You are pass with "<<marks<<"%"<<endl;
     } 
 
-    else        //  else id the reserved word for else statement 
+    else                   //  else is the reserved word for else statement 
     {
         /*  Body of else statement
             If condition of if statement false then this will excute */
@@ -26,5 +27,4 @@ int main()
     }
 
     return 0;
-
 }
