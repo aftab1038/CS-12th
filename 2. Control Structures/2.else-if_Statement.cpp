@@ -1,5 +1,5 @@
 /*  Else-If Statement
-      Write a program using if-else and else-if Statement */
+        Write a program using if-else and else-if Statement */
 
 #include <iostream>
 
