@@ -1,4 +1,4 @@
-/*  SLO NO. : 12.2.4
+/*  SLO NO. : 12.2.4 
     SLO Name : Write a C++ program that uses do while loop */
 
 #include <iostream>
