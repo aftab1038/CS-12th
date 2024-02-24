@@ -1,4 +1,4 @@
-/*  SLO NO. : 12.1.5
+/*  SLO NO. : 12.1.5 
     SLO Name : Write a program using switch statement */
 
 #include <iostream>
