@@ -5,7 +5,7 @@ using namespace std;
 void RectVol(int a, int b, int c);
 
 int main()
-{
+{ 
     RectVol(5, 6, 4);
     
 }
