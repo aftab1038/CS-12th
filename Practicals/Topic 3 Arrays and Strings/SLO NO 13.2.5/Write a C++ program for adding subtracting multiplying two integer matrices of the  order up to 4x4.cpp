@@ -35,7 +35,7 @@ int main()
     {
         for (int j = 0; j<4; j++)
         {
-            cout<<matrix_1[i][j]<<"\t";
+            cout<<matrix_1[i][j]<<" ";
         }
         cout<<endl;
     }
@@ -45,7 +45,7 @@ int main()
     {
         for (int j = 0; j<4; j++)
         {
-            cout<<matrix_2[i][j]<<"\t";
+            cout<<matrix_2[i][j]<<" ";
         }
         cout<<endl;
     }
@@ -69,7 +69,7 @@ void Addition(int A[4][4], int B[4][4])
         for (int j = 0; j<4; j++)
         {
             Matrix3[i][j] = A[i][j] + B[i][j];
-            cout<<Matrix3[i][j]<<"\t";
+            cout<<Matrix3[i][j]<<" ";
         }
         cout<<endl;
     }
@@ -86,7 +86,7 @@ void Subtraction(int A[4][4], int B[4][4])
         for (int j = 0; j<4; j++)
         {
             Matrix3[i][j] = A[i][j] - B[i][j];
-            cout<<Matrix3[i][j]<<"\t";
+            cout<<Matrix3[i][j]<<" ";
         }
         cout<<endl;
     }
@@ -105,7 +105,7 @@ void Multiplication(int A[4][4], int B[4][4]) {
                 num += A[i][k] * B[k][j];
             }
             Matrix_3[i][j] = num;
-            cout<<num<<"\t";
+            cout<<num<<" ";
         }
         cout<<endl;
     }
