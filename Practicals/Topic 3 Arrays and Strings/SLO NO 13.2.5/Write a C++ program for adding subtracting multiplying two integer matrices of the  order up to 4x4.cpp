@@ -12,7 +12,7 @@ void Multiplication(int A[4][4], int B[4][4]);
 
 int main()
 {  
-    cout<<"Arthematics Operations on 4 by 4 Matrices!"<<endl;
+    cout<<"Arithmetic Operations on 4 by 4 Matrices!"<<endl;
 
     // Variables Declaration 
     int matrix_1[4][4] = {
