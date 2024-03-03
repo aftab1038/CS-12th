@@ -5,7 +5,7 @@
 
 using namespace std;
 
-// Function Calling
+// Function Declare
 void Factorial(int num);
 
 int main()
