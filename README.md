@@ -13,7 +13,7 @@ This repository is your one-stop solution for all your C++ programming needs. Wh
 ### 1. SLO-by-SLO Work : 
 
 Dive into each AKUEB Syllabus Learning Outcome (SLO) and explore detailed implementations and exercises for each chapter, organized neatly for easy access.<br>
-[Click here](path/to/your/pdf) to open the AKUEB Syllabus Learning Outcome (SLO).<br>
+[Click here](/SLO.pdf) to open the AKUEB Syllabus Learning Outcome (SLO).<br>
 #### <u>Below are the chapters covered :</u>
 - **[Chapter 11](/1.%20Introduction%20to%20C++/) : Introduction to C++**
     - 11.1 : Programming Basics
