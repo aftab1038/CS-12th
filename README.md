@@ -78,10 +78,10 @@ Explore a comprehensive collection of projects and class tasks showcasing your m
 
 ## How to Use
 
-1. Clone or Fork:* Clone or fork this repository to your local machine.
-2. Explore Categories:* Navigate through folders based on SLOs, practicals, projects, and class tasks.
-3. Study Materials:* Utilize code examples, explanations, and documentation provided to enhance your understanding.
-4. Contribute:* Feel free to contribute by adding more examples, improving documentation, or suggesting enhancements.
+1. **Clone or Fork:** Clone or fork this repository to your local machine.
+2. **Explore Categories:** Navigate through folders based on SLOs, practicals, projects, and class tasks.
+3. **Study Materials:** Utilize code examples, explanations, and documentation provided to enhance your understanding.
+4. **Contribute:** Feel free to contribute by adding more examples, improving documentation, or suggesting enhancements.
 
 ## Get Started
 
