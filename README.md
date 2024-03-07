@@ -64,7 +64,7 @@ Discover comprehensive solutions tailored to exam-style practicals, designed to 
 - **[Practical No. 14](/Practicals/Topic%204%20Functions/SLO%20NO%2014.1.9/)** : Write a program involving user defined function to calculate average of numbers.
 - **[Practical No. 15](/Practicals/Topic%205%20Pointers/SLO%20NO%2015.1.5/)** : Write a simple program using & to return memory address of a variable and storing it in a pointer variable.
 - **[Practical No. 16](/Practicals/Topic%205%20Pointers/SLO%20NO%2015.1.6/)** : Write a C++ program that uses pointer variable.
-- **[Practical No. 17]()** : Write a C++ program to declare a class along with data members and member functions in its body and create the objects of class in the main( ) function and call member functions of class with the help of objects. 
+- **[Practical No. 17](/Practicals/Topic%206%20Object%20Oriented%20Programming/SLO%20NO%2016.1.2/)** : Write a C++ program to declare a class along with data members and member functions in its body and create the objects of class in the main( ) function and call member functions of class with the help of objects. 
 - **[Practical No. 18]()** : Write a C++ program in which a class uses both public and private access specifiers
 
 ***Explore each Practical by clicking Practical number above to access Source code and Screen shot .***
