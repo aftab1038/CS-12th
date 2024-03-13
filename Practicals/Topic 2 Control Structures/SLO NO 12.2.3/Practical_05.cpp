@@ -1,3 +1,6 @@
+// Code by AFTAB NAFEES
+// GitHub : aftab1038
+
 /*  SLO NO> : 12.2.3 
     SLO Name : Write a C++ program that uses while loop */
 

@@ -1,3 +1,6 @@
+// Code by AFTAB NAFEES
+// GitHub : aftab1038
+
 /*  SLO NO. : 12.1.5 
     SLO Name : Write a C++ program that uses for loop */
 

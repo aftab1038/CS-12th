@@ -1,3 +1,6 @@
+// Code by AFTAB NAFEES
+// GitHub : aftab1038
+
 /*  SLO NO. : 12.1.2
     SLO Name : Write a program using if-else and else-if Statement */
 
