@@ -8,7 +8,7 @@
 
 using namespace std;
 
-int main()
+int main() 
 {
     cout<<"Printing pattern of n by m!"<<endl;
     

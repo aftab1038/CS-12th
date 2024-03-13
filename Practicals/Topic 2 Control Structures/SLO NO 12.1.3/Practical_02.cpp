@@ -1,7 +1,7 @@
 // Code by AFTAB NAFEES
 // GitHub : aftab1038
 
-/*  SLO NO. : 12.1.3
+/*  SLO NO. : 12.1.3 
     SLO Name : write a program using nested if statement */
 
 #include <iostream> 
