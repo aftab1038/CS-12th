@@ -1,5 +1,8 @@
-/*  SLO NO. : 15.1.5
-    SLO Name : Write a simple program using & to return memory address of a variable and storing it in a pointer variable */
+// Code by AFTAB NAFEES
+// GitHub : aftab1038
+
+/*  SLO NO. : 15.1.6
+    SLO Name : Write a C++ program that uses pointer variable */
 
 #include <iostream>
 
