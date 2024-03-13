@@ -1,3 +1,6 @@
+// Code by AFTAB NAFEES
+// GitHub : aftab1038
+
 /*  SLO NO : 14.1.5
     SLO Name : Write a program involving user defined function to perform basic arithmetic operations, i.e. add, subtract, multiply and divide */
 

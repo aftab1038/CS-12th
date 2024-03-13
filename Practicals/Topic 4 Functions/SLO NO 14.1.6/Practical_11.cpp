@@ -1,3 +1,6 @@
+// Code by AFTAB NAFEES
+// GitHub : aftab1038
+
 /*  SLO NO. : 14.1.6
     SLO Name : Write a program involving user defined function to calculate area of circle, triangle and parallelogram. */
 
