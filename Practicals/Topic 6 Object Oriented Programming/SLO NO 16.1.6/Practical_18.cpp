@@ -1,5 +1,8 @@
-/*  SLO NO. : 16.1.2
-    SLO Name : Write a C++ program to declare a class along with data members and member functions in its body and create the objects of class in the main( ) function and call member functions of class with the help of objects */
+// Code by AFTAB NAFEES
+// GitHub : aftab1038
+
+/*  SLO NO. : 16.1.6
+    SLO Name : Write a C++ program in which a class uses both public and private access specifiers. */
 
 #include <iostream>
 
