@@ -1,3 +1,6 @@
+// Code by AFTAB NAFEES
+// GitHub : aftab1038
+
 /*  SLO NO. : 13.3.3
     SLO Name : Write C++ program to perform various operations on string using string fucntions, i.e. strcpy, strcat, strlen and strcmp  */
 

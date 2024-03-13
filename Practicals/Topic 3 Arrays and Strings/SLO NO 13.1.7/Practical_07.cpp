@@ -1,3 +1,6 @@
+// Code by AFTAB NAFEES
+// GitHub : aftab1038
+
 /*  SLO NO : 13.1.7
     SLO Name : Write a C++ program which stores numeric values in a one dimensional array using for loop and finds the highest, lowest and average values */
 
