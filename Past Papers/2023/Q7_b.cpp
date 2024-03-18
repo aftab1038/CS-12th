@@ -11,6 +11,7 @@ using namespace std;
 
 int main()
 {
+    // variable declaring and taking input from user
     int sum = 0, n;
     cout<<"Enter a ending number : ";
     cin>>n;
