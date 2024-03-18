@@ -5,7 +5,6 @@
     Q7 b. Write a C++ program to display n terms of natural numbers and their sum  */
 
 #include <iostream>
-#include <cstring>
 
 using namespace std;
 
