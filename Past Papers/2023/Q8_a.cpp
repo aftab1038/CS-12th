@@ -16,8 +16,8 @@ int main()
     getline(cin,str);
 
     // Revering the string
-    cout<<"Revered form..."<<endl;
-    for (int i = 10; i>=0; i--)
+    cout<<"Reversed form..."<<endl;
+    for (int i = 9; i>=0; i--)
     {
         cout<<str[i];
     }
