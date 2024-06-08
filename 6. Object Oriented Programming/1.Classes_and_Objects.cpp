@@ -3,7 +3,7 @@
             its body and create the objects of class in the main( ) function and call member functions 
             of class with the help of objects;   
              
-    Access Modifiers (Public, Private, Protected and Sealed)
+    Access Modifiers (Public, Private, and Protected)
         1.  write a C++ program in which class members are not accessible outside the class (private 
             access specifier);
         2.  write a C++ program in which class members are accessible from anywhere where the object 
