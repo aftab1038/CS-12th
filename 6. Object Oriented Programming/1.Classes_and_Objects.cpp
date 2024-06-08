@@ -1,3 +1,6 @@
+// Code by AFTAB NAFEES
+// GitHub : aftab1038
+
 /*  Classes and Objects in OPP
         1.  write a C++ program to declare a class along with data members and member functions in 
             its body and create the objects of class in the main( ) function and call member functions 

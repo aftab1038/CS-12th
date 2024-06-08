@@ -1,3 +1,6 @@
+// Code by AFTAB NAFEES
+// GitHub : aftab1038
+
 /*   Assignment NO 3 : Printing the Players Name and their Ages.....   */
 
 #include<iostream>

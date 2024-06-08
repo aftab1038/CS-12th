@@ -1,3 +1,6 @@
+// Code by AFTAB NAFEES
+// GitHub : aftab1038
+
 /*  Data Types and their Sizes..... */
 
 #include <iostream>

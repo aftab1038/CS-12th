@@ -1,3 +1,6 @@
+// Code by AFTAB NAFEES
+// GitHub : aftab1038
+
 /*    Assignment No 1 : Finding Tehsils of Inputed District.....    */
 
 #include <iostream>

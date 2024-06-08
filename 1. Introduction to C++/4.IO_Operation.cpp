@@ -1,3 +1,6 @@
+// Code by AFTAB NAFEES
+// GitHub : aftab1038
+
 /*  Functions for I/O Operations.....
         1. getchar()
         2. puts()

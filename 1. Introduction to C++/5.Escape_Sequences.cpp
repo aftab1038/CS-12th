@@ -1,3 +1,6 @@
+// Code by AFTAB NAFEES
+// GitHub : aftab1038
+
 /*  Write a program to print text using the following escape..... 
     sequences:
         a. alert – \a                       b. backspace – \b

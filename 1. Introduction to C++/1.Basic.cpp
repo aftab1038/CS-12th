@@ -1,3 +1,6 @@
+// Code by AFTAB NAFEES
+// GitHub : aftab1038
+
 /*  Basic of C++ programming.....
         1. Pre-processor directives
         2. Main function 

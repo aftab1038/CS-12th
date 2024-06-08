@@ -1,3 +1,6 @@
+// Code by AFTAB NAFEES
+// GitHub : aftab1038
+
 /*  Calculator.....
         Arithmetic Operation
         1. Addition(+)          2. Subtraction(-)

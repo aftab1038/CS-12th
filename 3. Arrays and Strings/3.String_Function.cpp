@@ -1,3 +1,6 @@
+// Code by AFTAB NAFEES
+// GitHub : aftab1038
+
 /*  Strings Function
         write C++ program to perform various operations on string using string functions:
             1.strcpy 

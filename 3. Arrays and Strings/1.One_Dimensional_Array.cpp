@@ -1,3 +1,6 @@
+// Code by AFTAB NAFEES
+// GitHub : aftab1038
+
 /*  One Dimensional Array
         1. Write C++ code to declare one dimensional array with different sizes and data types
         2. Write C++ code to initialise one dimensional array

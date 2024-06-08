@@ -1,3 +1,6 @@
+// Code by AFTAB NAFEES
+// GitHub : aftab1038
+
 /*  For Loop 
         write a C++ program that uses for loop */
 

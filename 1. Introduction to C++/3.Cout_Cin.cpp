@@ -1,3 +1,6 @@
+// Code by AFTAB NAFEES
+// GitHub : aftab1038
+
 /*  Cin statement and Cout statement usage.....   */
 
 #include <iostream>

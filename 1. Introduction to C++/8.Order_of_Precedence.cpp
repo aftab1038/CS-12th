@@ -1,3 +1,6 @@
+// Code by AFTAB NAFEES
+// GitHub : aftab1038
+
 /* Order of Precedence
         write a c++ program to solve the following expression:
          1. result1 = ((a+b)*c)/d
